@@ -8,7 +8,7 @@ export const config: Config = {
       type: 'dist',
       dir: 'dist'
     },
-    { type: 'docs' },
+    { type: 'docs'},
     { type: 'www' }
   ],
   copy: [

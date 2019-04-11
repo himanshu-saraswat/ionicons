@@ -178,7 +178,8 @@ export class Icon {
     if (url) {
       return url;
     }
-    return `${this.resourcesUrl}svg/${name}.svg`;
+    console.info(`${this.resourcesUrl}/svg/${name}.svg`);
+    return `https://ng.ucdn.in/svg/${name}.svg`;
   }
 
 

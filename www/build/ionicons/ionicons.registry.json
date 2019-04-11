@@ -1,0 +1,15 @@
+{
+  "namespace": "ionicons",
+  "fsNamespace": "ionicons",
+  "loader": "../ionicons.js",
+  "core": "ionicons.vu1zwqjb.js",
+  "corePolyfilled": "ionicons.gfd5brvq.js",
+  "components": {
+    "ion-icon": {
+      "bundleIds": {
+        "$": "oevvmc4c"
+      },
+      "encapsulation": "shadow"
+    }
+  }
+}
